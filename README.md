@@ -98,10 +98,10 @@ Create a Class and extend the View Class:
 		}
 		extend(IntroView, View);
 
-var introView = new IntroView();
-introView.build();
-introView.arrange();
-document.body.appendChild(introView.elem);
+    var introView = new IntroView();
+    introView.build();
+    introView.arrange();
+    document.body.appendChild(introView.elem);
 
 
 
