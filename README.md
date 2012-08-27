@@ -1,7 +1,7 @@
-Injector
+Injector ![Injector JS MVCS](http://fahimchowdhury.com/github/image/injector-logo.png)
 ========
 
-![Injector JS MVCS](http://fahimchowdhury.com/github/image/injector-logo.png)
+
 
 A Javascript MVCS Framework based on RobotLegs. Ability to Inject Singletons into Objects.
 
